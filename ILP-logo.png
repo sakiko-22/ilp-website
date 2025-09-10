@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
-  <rect width="400" height="200" fill="white"/>
-  <rect x="20" y="40" width="360" height="120" fill="none" stroke="#333" stroke-width="4"/>
-  <text x="200" y="120" font-size="48" font-weight="bold" text-anchor="middle" fill="#2c4a52">ILP LLC</text>
-</svg>
